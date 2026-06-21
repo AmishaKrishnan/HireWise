@@ -129,25 +129,25 @@ Password: admin123
 ## Screenshots
 
 ### Admin Dashboard
-Screenshots/admin.png
+![Admin Dashboard](Screenshots/admin.png)
 
 ### Home Page
-Screenshots/home.png
+![Home Page](Screenshots/home.png)
 
 ### Login Page
-Screenshots/login.png
+![Login Page](Screenshots/login.png)
 
 ### Dashboard
-Screenshots/dashboard.png
+![Dashboard](Screenshots/dashboard.png)
 
 ### Resume Analyzer
-(Screenshots/resume.png)
+![Resume Analyzer](Screenshots/resume.png)
 
 ### Aptitude Test
-(Screenshots/aptitude.png)
+![Aptitude](Screenshots/aptitude.png)
 
 ### Performance Analyzer
-(Screenshots/performance.png)
+![Performance](Screenshots/performance.png)
 
 ---
 
