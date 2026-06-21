@@ -78,34 +78,6 @@ HireWise is a Flask-based web application designed to help students improve thei
 * PyMySQL
 * Werkzeug
 
----
-
-## Project Structure
-
-
-HireWise/
-│
-├── app.py
-├── config.py
-├── uploads/
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── templates/
-│   ├── login.html
-│   ├── register.html
-│   ├── dashboard.html
-│   ├── aptitude.html
-│   ├── performance.html
-│   └── admin/
-│
-└── README.md
-
-
----
-
 ## Running the Application
 
 Start the Flask server:
@@ -117,14 +89,12 @@ Open your browser and visit:
 http://127.0.0.1:5000/
 
 
----
-
 ## Default Admin Credentials
 
 Username: admin
+
 Password: admin123
 
----
 
 ## Screenshots
 
@@ -149,7 +119,6 @@ Password: admin123
 ### Performance Analyzer
 ![Performance](Screenshots/performance.png)
 
----
 
 ## Future Enhancements
 
@@ -160,7 +129,6 @@ Password: admin123
 * Resume ATS Compatibility Checker
 * Placement Analytics Dashboard
 
----
 
 ## Author
 
@@ -172,7 +140,6 @@ MCA Student | Aspiring Software Developer
 
 Python • Flask • MySQL • HTML • CSS • Bootstrap • JavaScript
 
----
 
 ## License
 
