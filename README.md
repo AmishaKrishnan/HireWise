@@ -129,7 +129,7 @@ Password: admin123
 ## Screenshots
 
 ### Admin Dashboard
-(Screenshots/admin.png)
+Screenshots/admin.png
 
 ### Home Page
 (Screenshots/home.png)
