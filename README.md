@@ -132,13 +132,13 @@ Password: admin123
 Screenshots/admin.png
 
 ### Home Page
-(Screenshots/home.png)
+Screenshots/home.png
 
 ### Login Page
-(Screenshots/login.png)
+Screenshots/login.png
 
 ### Dashboard
-(Screenshots/dashboard.png)
+Screenshots/dashboard.png
 
 ### Resume Analyzer
 (Screenshots/resume.png)
