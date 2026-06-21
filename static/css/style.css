@@ -1,0 +1,228 @@
+/* =========================
+   HIREWISE PROFESSIONAL THEME
+========================= */
+
+body{
+    background:#f8fafc;
+    font-family:'Segoe UI',sans-serif;
+}
+
+/* Navbar */
+
+.navbar{
+    background:#2563eb !important;
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
+    padding:16px 0;
+}
+
+.navbar-brand{
+    font-size:2rem;
+    font-weight:700;
+}
+
+.navbar .btn{
+    padding:12px 28px;
+    border-radius:14px;
+    font-size:1rem;
+    font-weight:600;
+}
+
+.nav-link{
+    font-weight:500;
+    transition:0.3s;
+}
+
+.nav-link:hover{
+    color:#ffd43b !important;
+}
+
+/* Cards */
+
+.card{
+    border:none;
+    border-radius:18px;
+    background:white;
+    box-shadow:0 8px 25px rgba(0,0,0,0.08);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.12);
+}
+
+/* Score Cards */
+
+.score-card{
+    min-height:220px;
+}
+
+.score-card h2{
+    font-size:3rem;
+    font-weight:700;
+    color:#2563eb;
+}
+
+.score-card h5{
+    font-weight:600;
+}
+
+/* Action Cards */
+
+.action-card{
+    min-height:260px;
+}
+
+.action-card i{
+    font-size:3rem;
+}
+
+/* Buttons */
+
+.btn{
+    border-radius:12px;
+    padding:10px 20px;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.btn:hover{
+    transform:translateY(-2px);
+}
+
+/* Hero Section */
+
+.hero{
+    padding:40px 0 20px 0;
+}
+
+.hero h1{
+    font-size:4rem;
+    font-weight:800;
+    color:#1e293b;
+}
+
+.hero p{
+    color:#64748b;
+}
+
+/* Section Headings */
+
+h1,h2,h3,h4,h5{
+    color:#1e293b;
+}
+
+/* Forms */
+
+.form-control{
+    border-radius:12px;
+    border:1px solid #dbe2ea;
+    padding:12px;
+}
+
+.form-control:focus{
+    border-color:#2563eb;
+    box-shadow:0 0 0 0.2rem rgba(37,99,235,0.15);
+}
+
+/* Tables */
+
+.table{
+    background:white;
+    border-radius:18px;
+    overflow:hidden;
+}
+
+.table thead{
+    background:#2563eb;
+    color:white;
+}
+
+.table th{
+    border:none;
+}
+
+.table td{
+    vertical-align:middle;
+}
+
+/* Resume History */
+
+.history-card{
+    border-radius:18px;
+    overflow:hidden;
+}
+
+/* Badges */
+
+.badge{
+    border-radius:10px;
+    padding:10px 14px;
+}
+
+/* Footer */
+
+footer{
+    margin-top:60px;
+    background:#1e293b;
+    color:white;
+    padding:20px;
+}
+
+/* Dashboard Welcome Card */
+
+.welcome-card{
+    background: linear-gradient(
+        135deg,
+        #2563eb,
+        #3b82f6
+    );
+    color: white;
+    padding: 15px;
+}
+
+.welcome-card h2{
+    color: white !important;
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.welcome-card p{
+    color: rgba(255,255,255,0.95) !important;
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+}
+
+.welcome-card hr{
+    border-color: rgba(255,255,255,0.3);
+}
+
+.resume-info{
+    color: white !important;
+    font-size: 1.15rem;
+    font-weight: 500;
+}
+/* Performance Chart */
+
+.chart-card{
+    padding:30px;
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+    .score-card{
+        min-height:auto;
+    }
+
+    .action-card{
+        min-height:auto;
+    }
+
+    .hero{
+        padding:60px 0;
+    }
+
+}
